@@ -1,2 +1,2 @@
 # test1_simple
-test repository
+test besr repository
